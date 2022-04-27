@@ -1,4 +1,4 @@
 # Techionista Demo
 
-This notebook helps Techionista students getting started with their own python projects and build a portfolio.
+This notebook helps Techionista students to get started with their own Python projects and build a portfolio.
 I hope this helps you on your data journey!
